@@ -7,6 +7,9 @@
     "@tobyg74/tiktok-api-dl": "^1.0.7",
     "hono": "^3.7.2"
   },
+  "engines": {
+    "node": ">=18.18.0 <19.0.0"
+  },
   "devDependencies": {
     "tsx": "^3.12.2"
   }
